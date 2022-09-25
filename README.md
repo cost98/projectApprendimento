@@ -5,5 +5,6 @@ Se scaricate e posizionate in una certa cartella basta cambiare i percorsi nei d
 
 
 In ordine si dovrebbero lanciare i file:
-. letturaDati
-. model
+# letturaDati
+# preprocess
+# model
